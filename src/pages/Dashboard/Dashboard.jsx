@@ -28,7 +28,7 @@ export default function Dashboard() {
                     <div className="card-body">
                         <div className="row">
                             <div className="col-lg-7">
-                                    <h2 className="card-title">{__(`Welcome to ${Details?.name}`, "store-addons-for-woocommerce")} <span class="badge text-bg-light">Light</span></h2>
+                                    <h2 className="card-title">{__(`Welcome to ${Details?.name}`, "store-addons-for-woocommerce")}</h2>
                                     <div className="card-text">
                                         <p>Are you a WooCommerce store owner looking to offer personalized products? Store Addons for WooCommerce is your ultimate solution for crafting custom store options and addons tailored to customer needs. This powerful plugin simplifies adding a variety of custom options directly to your wocommerce pages. Enhancing the shopping experience and meeting diverse customer preferences.</p>
                                         <p>Store Addons for WooCommerce is an all-in-one toolkit to enhance your WooCommerce store. This is a highly effective plugin developed for assisting online businesses in improving sales and profits.</p>
@@ -45,7 +45,7 @@ export default function Dashboard() {
                     <div className="col-lg-8 mb-4 mb-lg-0">
                         <div className="card mt-0 mb-3 rounded-0">
                             <div className="card-header">
-                                Shortcode
+                                {__('Features', "store-addons-for-woocommerce")}
                             </div>
                             <div className="card-body">
                                 <h4 className="card-title">Card title</h4>

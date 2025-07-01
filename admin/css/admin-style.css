@@ -117,6 +117,7 @@
 }
 .store-addons-for-woocommerce-settings-template #wpcontent #wpbody #wpbody-content .store-addons-for-woocommerce-settings-wrapper .store-addons-for-woocommerce-settings-container nav.navbar {
   top: 32px;
+  padding: 0;
 }
 @media screen and (max-width: 600px) {
   .store-addons-for-woocommerce-settings-template #wpcontent #wpbody #wpbody-content .store-addons-for-woocommerce-settings-wrapper .store-addons-for-woocommerce-settings-container nav.navbar {

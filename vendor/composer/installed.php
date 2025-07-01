@@ -3,7 +3,7 @@
         'name' => 'mos/store-addons-for-woocommerce',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '84097eed5dfbd6131427f028542fd1a7ed37aba5',
+        'reference' => '57ed15f275f5f35a4979d2374761dc46b2d25ec4',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'mos/store-addons-for-woocommerce' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '84097eed5dfbd6131427f028542fd1a7ed37aba5',
+            'reference' => '57ed15f275f5f35a4979d2374761dc46b2d25ec4',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

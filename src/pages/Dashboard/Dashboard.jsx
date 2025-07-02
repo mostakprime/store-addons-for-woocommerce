@@ -33,7 +33,7 @@ export default function Dashboard() {
                                         <p>Are you a WooCommerce store owner looking to offer personalized products? Store Addons for WooCommerce is your ultimate solution for crafting custom store options and addons tailored to customer needs. This powerful plugin simplifies adding a variety of custom options directly to your wocommerce pages. Enhancing the shopping experience and meeting diverse customer preferences.</p>
                                         <p>Store Addons for WooCommerce is an all-in-one toolkit to enhance your WooCommerce store. This is a highly effective plugin developed for assisting online businesses in improving sales and profits.</p>
                                     </div>
-                                    <button type="button" class="btn btn-primary">See More Feature</button>
+                                    <button type="button" class="btn btn-primary">See More Feature change</button>
                                     <button type="button" class="btn">Plugin Demo</button>
                             </div>
                             <div className="col-lg-5"><div className="d-flex align-items-center justify-content-center w-100 h-100 bg-secondary text-white">Image</div></div>
